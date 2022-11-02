@@ -1,5 +1,19 @@
-p {
-  font-family: monospace;
-  color: blueviolet;
+.div-center {
+  display: flex;
+  align-items: center;
   padding: 1rem;
 }
+h2 {
+  text-align: center;
+}
+p {
+  font-family: monospace;
+  font-weight: bold;
+  color: #007F5F;
+  padding: 1rem;
+}
+.div {
+  background-color: #FFFF3F;
+  border-radius: .2rem;
+}
+.
