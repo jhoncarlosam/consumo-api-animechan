@@ -1,5 +1,4 @@
 const URL = "https://animechan.vercel.app/api/random";
-const URL2 = "https://api.waifu.pics/sfw/smile"; //agregar peticion a character
 // https://waifu.pics/docs usar API-REST info en el link
 
 fetch(URL)
